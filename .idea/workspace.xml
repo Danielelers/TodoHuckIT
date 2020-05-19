@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5c1fbfb9-0e4b-4280-b572-a3c175cfb718" name="Default Changelist" comment="Todo CLI fertig, als nächstes Datenbank">
+      <change afterPath="$PROJECT_DIR$/out/de/huckit/todo/cli/SaveList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/de/huckit/todo/cli/TodoController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/de/huckit/todo/cli/TodoCurrentID.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/de/huckit/todo/cli/TodoRepository.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/de/huckit/todo/cli/TodoService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/To do CLI/de/huckit/todo/cli/TodoController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/To do CLI/de/huckit/todo/cli/TodoRepository.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/To do CLI/de/huckit/todo/cli/TodoService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/de/huckit/todo/cli/SaveList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/de/huckit/todo/cli/TodoController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/de/huckit/todo/cli/TodoRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/de/huckit/todo/cli/TodoService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyTodos.json" beforeDir="false" afterPath="$PROJECT_DIR$/MyTodos.json" afterDir="false" />
+<<<<<<< HEAD
+      <change beforePath="$PROJECT_DIR$/out/de/huckit/todo/cli/SaveList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/de/huckit/todo/cli/SaveList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/de/huckit/todo/cli/Todo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/de/huckit/todo/cli/Todo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/de/huckit/todo/cli/TodoController.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/de/huckit/todo/cli/TodoController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/de/huckit/todo/cli/TodoRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/de/huckit/todo/cli/TodoRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/de/huckit/todo/cli/TodoService.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/de/huckit/todo/cli/TodoService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/de/huckit/todo/cli/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/de/huckit/todo/cli/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/de/huckit/todo/cli/SaveList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/de/huckit/todo/cli/SaveList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/de/huckit/todo/cli/Todo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/de/huckit/todo/cli/Todo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/de/huckit/todo/cli/TodoController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/de/huckit/todo/cli/TodoController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/de/huckit/todo/cli/TodoFileRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/de/huckit/todo/cli/TodoFileRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/de/huckit/todo/cli/TodoMySQLRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/de/huckit/todo/cli/TodoMySQLRepository.java" afterDir="false" />
+=======
+      <change beforePath="$PROJECT_DIR$/out/de/huckit/todo/cli/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/de/huckit/todo/cli/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/de/huckit/todo/cli/Todo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/de/huckit/todo/cli/Todo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/To do CLI/de/huckit/todo/cli/Main$TodoController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/To do CLI/de/huckit/todo/cli/Main$TodoRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/To do CLI/de/huckit/todo/cli/Main$TodoService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/To do CLI/de/huckit/todo/cli/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/To do CLI/de/huckit/todo/cli/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/de/huckit/todo/cli/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/de/huckit/todo/cli/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/de/huckit/todo/cli/Todo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/de/huckit/todo/cli/Todo.java" afterDir="false" />
+>>>>>>> origin/master
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1bR0itZRTdO8O0dsptEAoG8vD0C" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="reference.idesettings.debugger.capture" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="de.huckit.Main" />
+      <module name="To do CLI" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="de.huckit.todo.cli.Main" />
+      <module name="To do CLI" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="de.huckit.todo.cli.TodoService" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5c1fbfb9-0e4b-4280-b572-a3c175cfb718" name="Default Changelist" comment="" />
+      <created>1588579728221</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588579728221</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+<<<<<<< HEAD
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="488" y="79" key="#com.intellij.ide.util.MemberChooser" timestamp="1589793049790">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="488" y="79" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1589793049790" />
+    <state x="437" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1589547882441">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="437" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1366.728@0.0.1366.728" timestamp="1589547882441" />
+=======
+    <MESSAGE value="Todo CLI fertig, als nächstes Datenbank" />
+    <option name="LAST_COMMIT_MESSAGE" value="Todo CLI fertig, als nächstes Datenbank" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="488" y="79" key="#com.intellij.ide.util.MemberChooser" timestamp="1589362837928">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="488" y="79" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1589362837928" />
+    <state x="437" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1589366293556">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="437" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1366.728@0.0.1366.728" timestamp="1589366293556" />
+>>>>>>> origin/master
+    <state x="413" y="110" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1588753965085">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="110" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1588753965085" />
+    <state x="413" y="110" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog" timestamp="1589293199242">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="110" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.0.1366.728@0.0.1366.728" timestamp="1589293199242" />
+    <state x="430" y="219" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1589265823061">
+<<<<<<< HEAD
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="430" y="219" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1366.728@0.0.1366.728" timestamp="1589265823061" />
+    <state x="337" y="0" key="CommitChangelistDialog2" timestamp="1589379620172">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+=======
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="430" y="219" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1366.728@0.0.1366.728" timestamp="1589265823061" />
+    <state x="337" y="0" key="CommitChangelistDialog2" timestamp="1589379620172">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+>>>>>>> origin/master
+    <state x="337" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1589379620172" />
+    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1588839988376">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1588839988376" />
+    <state width="1322" height="216" key="GridCell.Tab.0.bottom" timestamp="1589296005678">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="216" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1589296005678" />
+    <state width="1322" height="216" key="GridCell.Tab.0.center" timestamp="1589296005678">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="216" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1589296005678" />
+    <state width="1322" height="216" key="GridCell.Tab.0.left" timestamp="1589296005678">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="216" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1589296005678" />
+    <state width="1322" height="216" key="GridCell.Tab.0.right" timestamp="1589296005678">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="216" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1589296005678" />
+    <state width="1322" height="216" key="GridCell.Tab.1.bottom" timestamp="1589296005678">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="216" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1589296005678" />
+    <state width="1322" height="216" key="GridCell.Tab.1.center" timestamp="1589296005678">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="216" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1589296005678" />
+    <state width="1322" height="216" key="GridCell.Tab.1.left" timestamp="1589296005678">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="216" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1589296005678" />
+    <state width="1322" height="216" key="GridCell.Tab.1.right" timestamp="1589296005678">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="216" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1589296005678" />
+    <state x="184" y="0" key="SettingsEditor" timestamp="1588661523591">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1588661523591" />
+<<<<<<< HEAD
+    <state x="378" y="186" key="com.intellij.ide.util.TipDialog" timestamp="1589868603969">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="378" y="186" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1589868603969" />
+    <state x="330" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1589807494058">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="330" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1366.728@0.0.1366.728" timestamp="1589807494058" />
+=======
+    <state x="378" y="186" key="com.intellij.ide.util.TipDialog" timestamp="1589349877576">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="378" y="186" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1589349877576" />
+>>>>>>> origin/master
+    <state x="65" y="0" key="new project wizard" timestamp="1589183161270">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="65" y="0" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1589183161270" />
+    <state x="389" y="0" key="refactoring.ChangeSignatureDialog" timestamp="1589352530808">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="389" y="0" key="refactoring.ChangeSignatureDialog/0.0.1366.728@0.0.1366.728" timestamp="1589352530808" />
+    <state x="339" y="157" key="run.anything.popup" timestamp="1588598560851">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="157" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1588598560851" />
+    <state x="339" y="6" width="672" height="676" key="search.everywhere.popup" timestamp="1589796612009">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="6" width="672" height="676" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1589796612009" />
+  </component>
+</project>
